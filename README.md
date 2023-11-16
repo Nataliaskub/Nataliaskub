@@ -10,7 +10,7 @@
 ## QA Software Engineer 
 #### with experience in both Automation and Manual Testing
 <div id="header" align="center">
-  <img src=src="https://t3.ftcdn.net/jpg/06/25/48/30/240_F_625483007_qoDO0zuCzXt5lP9fVWpm67Zp4043RGaN.jpg" 
+  <img src="https://t3.ftcdn.net/jpg/06/25/48/30/240_F_625483007_qoDO0zuCzXt5lP9fVWpm67Zp4043RGaN.jpg" 
 </div>
 <br>
 
