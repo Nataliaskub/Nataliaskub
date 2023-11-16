@@ -44,7 +44,7 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;
 </p>
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45" height="35">
-<a href="https://www.linkedin.com/in/NataliaSkubii/" target="blank" >
+<a href="https://www.linkedin.com/in/natalia-skubii/" target="blank" >
   
   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
