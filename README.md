@@ -7,7 +7,8 @@
 
 ---
 
-### Software QA Automation Engineer
+### Software QA Automation Engineer 
+<a href="https://www.linkedin.com/in/NataliaSkubii/" target="blank" >
  
 
 
