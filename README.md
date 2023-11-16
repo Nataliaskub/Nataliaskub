@@ -7,12 +7,13 @@
 
 ---
 
-## QA Software Engineer 
-#### with experience in both Automation and Manual Testing
+### Software QA Automation Engineer
+ 
+
+
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif?cid=ecf05e47j9vnjdxf4nchrsuthhs5g0ecehsv9ztwfgf8qbg1&ep=v1_stickers_search&rid=giphy.gif&ct=s"
-
-
+  <img src="https://media4.giphy.com/media/Za2KlPwihhN2YJ6eno/200w.gif?cid=ecf05e47gcf1hiz2tl7d24i9umrgfs95rt5p76beejpokmy2&ep=v1_stickers_search&rid=200w.gif&ct=s"
+</div>
 
 
 
@@ -41,7 +42,7 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;
 </p>
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45" height="35">
-<a href="https://www.linkedin.com/in/ingajumir/" target="blank" >
+<a href="https://www.linkedin.com/in/NataliaSkubii/" target="blank" >
   
   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -51,17 +52,8 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 
 *Feel free to reach out if you have any questions, opportunities, or just want to connect! <br> I'm always excited to collaborate and contribute to impactful projects. <br> Let's make software testing better together!*
 
-<br>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20QA%20Automation%20Engineer;Experienced%20UI%20and%20API%20Tester;Always%20learning%20new%20things%20:)&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&pause=1000&size=22" /></a>
-</p> 
-<p align="center">
-<img  width="350" src="images/cat-coding.gif" >
-</p>
-<p align="right">
- 𝘐𝘯 𝘮𝘺 𝘧𝘳𝘦𝘦 𝘵𝘪𝘮𝘦, 𝘐 𝘦𝘯𝘫𝘰𝘺 𝘤𝘺𝘤𝘭𝘪𝘯𝘨, <br> 𝘩𝘪𝘬𝘪𝘯𝘨, 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘶𝘵, 𝘥𝘳𝘢𝘸𝘪𝘯𝘨 𝘪𝘯 𝘗𝘳𝘰𝘤𝘳𝘦𝘢𝘵𝘦, 𝘢𝘯𝘥 𝘤𝘳𝘰𝘤𝘩𝘦𝘵𝘪𝘯𝘨 𝘈𝘮𝘪𝘨𝘶𝘳𝘶𝘮𝘪 𝘵𝘰𝘺𝘴. <br><br>
-</p> 
 
-![](https://komarev.com/ghpvc/?username=IngaJumir&color=yellow)
+
+
+![](https://komarev.com/ghpvc/?username=Natliaskub&color=yellow)
