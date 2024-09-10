@@ -14,8 +14,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/Za2KlPwihhN2YJ6eno/200w.gif?cid=ecf05e47gcf1hiz2tl7d24i9umrgfs95rt5p76beejpokmy2&ep=v1_stickers_search&rid=200w.gif&ct=s"
-</div>
+ <img width="626" height="417" alt="Online Workathome Woman Using Laptop" class="_9zid0k5 _1286nb1h _1286nb1k _1286nb191 _1286nb13e1 _1286nb13k7 _1286nb16 _1286nb1a1" sizes="(max-width: 480px) 100vw, (min-aspect-ratio: 626/417) calc((100vh - 184px) * 1.501), (max-width: 1096px) calc(100vw - 40px), calc(100vw - 540px)" fetchpriority="high" style="outline: green dotted 2px !important;" src="https://img.freepik.com/premium-vector/online-workathome-woman-using-laptop_961875-411915.jpg" srcset="https://img.freepik.com/premium-vector/online-workathome-woman-using-laptop_961875-411915.jpg?w=360 360w, https://img.freepik.com/premium-vector/online-workathome-woman-using-laptop_961875-411915.jpg?w=740 740w, https://img.freepik.com/premium-vector/online-workathome-woman-using-laptop_961875-411915.jpg?w=826 826w, https://img.freepik.com/premium-vector/online-workathome-woman-using-laptop_961875-411915.jpg?w=900 900w, https://img.freepik.com/premium-vector/online-workathome-woman-using-laptop_961875-411915.jpg?w=996 996w, https://img.freepik.com/premium-vector/online-workathome-woman-using-laptop_961875-411915.jpg?w=1060 1060w, https://img.freepik.com/premium-vector/online-workathome-woman-using-laptop_961875-411915.jpg?w=1380 1380w, https://img.freepik.com/premium-vector/online-workathome-woman-using-laptop_961875-411915.jpg?w=1480 1480w, https://img.freepik.com/premium-vector/online-workathome-woman-using-laptop_961875-411915.jpg?w=1800 1800w, https://img.freepik.com/premium-vector/online-workathome-woman-using-laptop_961875-411915.jpg?w=2000 2000w">
 
 
 
